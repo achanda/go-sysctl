@@ -1,4 +1,4 @@
-package main
+package sysctl
 
 import (
         "errors"
