@@ -4,4 +4,4 @@ go:
   - 1.5
   - tip
 script:
-  - sudo make test
+  - make test
